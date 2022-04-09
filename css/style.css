@@ -1,0 +1,42 @@
+.navBar{
+    background-color: #cccccc;
+}
+
+.navItem{
+    display: inline-block;
+    background-color: darkgray;
+    padding: 20px;
+    padding-left: 40px;
+    padding-right: 40px;    
+}
+
+.left{
+    background-color: aqua;
+    width: 29%;
+    height: 800px;
+    float: left;
+}
+
+.right{
+    background-color: aquamarine;
+    display: inline-block;
+    width: 70%;
+    float: left;
+    height: 800px;
+}
+
+.topLeft{
+    background-color: blue;
+    height: 200px;
+    align-items: center;
+}
+
+.bottomLeft{
+    background-color: blueviolet;
+    height: 600px;
+}
+
+img{
+    margin-left: auto;
+    margin-right: auto;
+}
